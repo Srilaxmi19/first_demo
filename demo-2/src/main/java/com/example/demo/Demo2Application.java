@@ -8,6 +8,7 @@ public class Demo2Application {
 
 	public static void main(String[] args) {
 		//SpringApplication.run(Demo2Application.class, args);
+		System.out.println("Hello World Changes from Sri1");
 		System.out.println("Hello World from Java Program!");
 	}
 
